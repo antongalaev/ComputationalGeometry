@@ -2,6 +2,8 @@
 *.docx
 *.pdf
 *.zip
+*.iml
+.idea/
 Archive/
 Код/
 Отчет/
