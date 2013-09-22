@@ -4,6 +4,7 @@
 *.zip
 *.iml
 .idea/
+out/
 Archive/
 Код/
 Отчет/
